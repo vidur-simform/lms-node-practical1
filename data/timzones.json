@@ -1,0 +1,102 @@
+[
+    {
+        "abbr" : "UTC",
+        "full_form": "Coordinated Universal Time",
+        "offset": 0.0
+    },
+    {
+        "abbr":"CST",
+        "full_form": "China Standard Time",
+        "offset": 8.0
+    },
+    {
+        "abbr":"EST",
+        "full_form": "Eastern Standard Time",
+        "offset": -5.0
+    },
+    {
+        "abbr":"JST",
+        "full_form": "Japan Standard Time",
+        "offset": 9.0
+    },
+    {
+        "abbr":"IST",
+        "full_form": "India Standard Time",
+        "offset": 5.5
+    },
+    {
+        "abbr":"PST",
+        "full_form": "Pacific Standard Time",
+        "offset": -8.0
+    },
+    {
+        "abbr":"GMT",
+        "full_form": "Greenwich Mean Time",
+        "offset": 0.0
+    },
+    {
+        "abbr":"CET",
+        "full_form": "Central European Time",
+        "offset": 1.0
+    },
+    {
+        "abbr":"EET",
+        "full_form": "Eastern European Time",
+        "offset": 2.0
+    },
+    {
+        "abbr":"KST",
+        "full_form": "Korea Standard Time",
+        "offset": 9.0
+    },
+    {
+        "abbr":"MSK",
+        "full_form": "Moscow Standard Time",
+        "offset": 3.0
+    },
+    {
+        "abbr":"PHT",
+        "full_form": "Philippine Time",
+        "offset": 8.0
+    },
+    {
+        "abbr":"BRT",
+        "full_form": "Brasília Time",
+        "offset": -3.0
+    },
+    {
+        "abbr":"EAST",
+        "full_form": "Eastern African Time",
+        "offset": 3.0
+    },
+    {
+        "abbr":"WET",
+        "full_form": "Western European Time",
+        "offset": 0.0
+    },
+    {
+        "abbr":"CAT",
+        "full_form": "Central Africa Time",
+        "offset": 2.0
+    },
+    {
+        "abbr":"EAT",
+        "full_form": "Eastern Africa Time",
+        "offset": 3.0
+    },
+    {
+        "abbr":"AST",
+        "full_form": "Arabia Standard Time",
+        "offset": 3.0
+    },
+    {
+        "abbr":"BTT",
+        "full_form": "Bhutan Time",
+        "offset": 6.0
+    },
+    {
+        "abbr":"NPT",
+        "full_form": "Nepal Time",
+        "offset": 5.75
+    }
+]
